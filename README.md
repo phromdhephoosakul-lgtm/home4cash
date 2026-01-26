@@ -17,6 +17,7 @@
       --text-dark: #2D2D2D;
       --white: #FFFFFF;
       --gray: #f4f4f4;
+      --blue: #0070C0;
     }
 
     * {
@@ -143,7 +144,7 @@
       display: inline-block;
       margin-top: 15px;
       font-size: 0.85rem;
-      color: var(--primary-red);
+      color: var(--blue);
       text-decoration: none;
       font-weight: 600;
     }
@@ -219,7 +220,7 @@
 
   <!-- Option 1 -->
   <div class="card">
-    <div class="card-header">หลักประกันมีประโยชน์ไว้เพื่ออยู่อาศัย</div>
+    <div class="card-header">หลักประกันเป็นที่อยู่อาศัย</div>
     <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
     <div class="benefit-grid">
       <div class="benefit-item">
@@ -236,7 +237,7 @@
 
   <!-- Option 2 -->
   <div class="card">
-    <div class="card-header">หลักประกันมีประโยชน์ไว้เพื่ออยู่อาศัย <span class="badge">ยอดฮิต</span></div>
+    <div class="card-header">หลักประกันเป็นที่อยู่อาศัย <span class="badge">ยอดฮิต</span></div>
     <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 50,000 บาท;<br>เจ้าของกิจการ รายได้ > 50,000 บาท</p>
     <div class="benefit-grid">
       <div class="benefit-item">
@@ -253,7 +254,7 @@
 
   <!-- Option 2 -->
   <div class="card">
-    <div class="card-header">ไม่จำกัดประเภท<br>และการใช้ประโยชน์จากหลักประกัน </div>
+    <div class="card-header">หลักประกันไม่ได้เป็นที่อยู่อาศัย </div>
     <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
     <div class="benefit-grid">
       <div class="benefit-item">
